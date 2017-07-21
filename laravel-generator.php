@@ -10,7 +10,7 @@
                                         if (isset($_GET["nchr"])){
                                                 $nchrvalue = $_GET["nchr"];
                                         }
-                                                echo "<input type=\"text\" name=\"nchr\" value=\"".$nchrv$
+                                                echo "<input type=\"text\" name=\"nchr\" value=\"".$nchrvalue."\">";
                                 ?>
                                         <input type="submit" value="Genera">
                          </form>
